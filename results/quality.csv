@@ -1,0 +1,4 @@
+dataset,raw_observations,usable_observations,duplicates,invalid_scans,excluded_rows,median_interval_seconds,missing_computer_timestamp_utc,missing_elapsed_ms,missing_devices,missing_avg_rssi,missing_max_rssi,missing_min_rssi,missing_scan_ms,missing_status,missing_ble_reason
+stationary,179,179,0,0,0,5.035,0,0,0,0,0,0,0,0,0
+activity,179,179,0,0,0,5.035,0,0,0,0,0,0,0,0,0
+moving,180,180,0,0,0,5.035,0,0,0,0,0,0,0,0,0

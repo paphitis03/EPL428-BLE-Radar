@@ -1,0 +1,10 @@
+dataset,segment,series,n,statistic,p_value,lags,decision
+stationary,1,level,179,-4.586977875415748,0.00013649979732873154,2,reject unit root
+activity,1,level,179,-0.2757012325486178,0.9288759578977692,11,fail to reject unit root
+activity,1,first difference,178,-3.694644834847974,0.00418911298519298,8,reject unit root
+moving,pooled (legacy check only),level,180,-1.8319197050008367,0.3647335099345146,1,fail to reject unit root
+moving,1,level,70,0.07701228120075262,0.9644561142350767,2,fail to reject unit root
+moving,1,first difference,69,-7.2260979831400665,2.051219334536647e-10,1,reject unit root
+moving,2,level,50,-1.638022928222449,0.46329405607046126,1,fail to reject unit root
+moving,2,first difference,49,-11.026238346438515,5.818582216829619e-20,0,reject unit root
+moving,3,level,60,-3.0633508457910237,0.029386977941867055,1,reject unit root

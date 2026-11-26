@@ -1,0 +1,13 @@
+dataset,model,test_n,mae,rmse,best_mae,best_rmse
+activity,ARIMA,36,2.9799910633243423,3.6067652789622664,False,False
+activity,Moving average,36,3.0,3.6016971308290513,False,False
+activity,Persistence,36,3.0277777777777777,3.6780127484523186,False,False
+activity,Simple exponential smoothing,36,2.9190734167830943,3.484579566307518,True,True
+moving,ARIMA,36,2.6504111718560033,3.88534271979657,False,True
+moving,Moving average,36,3.001851851851852,4.419778777772079,False,False
+moving,Persistence,36,2.6666666666666665,4.0483192671637065,False,False
+moving,Simple exponential smoothing,36,2.5827093055437995,3.915244980557157,True,False
+stationary,ARIMA,36,2.601368206020291,3.14112122840616,True,True
+stationary,Moving average,36,2.7500000000000013,3.4119072541778026,False,False
+stationary,Persistence,36,3.0277777777777777,3.737943582000967,False,False
+stationary,Simple exponential smoothing,36,2.6237060069090656,3.234531360500222,False,False
